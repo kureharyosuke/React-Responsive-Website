@@ -23,3 +23,9 @@ yarn-debug.log*
 yarn-error.log*
 
 .env
+
+Navbar-xxx.js
+Footer-xxx.css
+
+
+.gitignore
